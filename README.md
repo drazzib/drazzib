@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi 👋
 
-<!--
-**drazzib/drazzib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Damien Raude-Morvan**.
 
-Here are some ideas to get you started:
+> I work as a **Senior Staff Software Engineer** at [Decathlon Digital](https://digital.decathlon.net/) since 2022.
+> More particularly, I support the whole **In Store** domain, which provides digital solutions (both hardware and software)
+> for 1700+ shops in the 70+ countries where Decathlon is present.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Observability tooling (ie. I work with [OpenTelemetry](https://opentelemetry.io) on a daily basis)
+- I'm more of a polyglot developer with deep experience with Java, Groovy, Kotlin, Python, TypeScript and ... PHP
+- I'm interested in all aspects of application performance (from benchmarking and monitoring to the human factor).
+- 📫 How to reach me:
+  - My LinkedIn [damienraudemorvan](https://www.linkedin.com/in/damienraudemorvan/)
+  - My Mastodon account [drazzib@fosstodon.org](https://fosstodon.org/@drazzib)
+  - My personnal blog: [drazzib.com](https://www.drazzib.com/)
